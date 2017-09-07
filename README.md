@@ -1,2 +1,2 @@
 # hello-world
-i am starting with GitHub
+i am learning how to commit 
